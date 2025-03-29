@@ -1,0 +1,10 @@
+/data/
+/data_utf
+/venv/
+data.zip
+/.idea/
+train_word_dict
+*.doc
+aiData
+spam_filter_model.json
+__pycache__

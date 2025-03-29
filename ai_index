@@ -1,0 +1,9 @@
+spam ../aiData/spam/Promotional/0
+spam ../aiData/spam/Promotional/1
+spam ../aiData/spam/Promotional/2
+spam ../aiData/spam/Promotional/3
+spam ../aiData/spam/Social/0
+spam ../aiData/spam/Social/1
+spam ../aiData/spam/Social/2
+spam ../aiData/spam/Social/3
+ham ../aiData/ham/Account/0

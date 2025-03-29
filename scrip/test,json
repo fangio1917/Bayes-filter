@@ -1,0 +1,22 @@
+{
+    "id": "0195e1b4d06dbcb30e80c31226106a15",
+    "object": "chat.completion",
+    "created": 1743248478,
+    "model": "deepseek-ai/DeepSeek-R1",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\n\n你好！很高兴见到你，有什么我可以帮忙的吗？无论是学习、工作还是生活中的问题，都可以告诉我哦！😊"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 56,
+        "completion_tokens": 26,
+        "total_tokens": 82
+    },
+    "system_fingerprint": ""
+}
